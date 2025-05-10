@@ -1,0 +1,4 @@
+https://news.ycombinator.com/rss
+https://www.theverge.com/rss/index.xml
+https://www.bbc.com/news/world/rss.xml
+https://www.wired.com/feed/rss 
